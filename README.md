@@ -12,4 +12,4 @@ IOT-based healthcare management system using Raspberry Pie
 6. See the data getting updated on console
 7. Open the folder on command line and run the command- $ activate project
 8. Then run this command - $ cd /*path
-9. Finally run - $python Mainppage.py to display the UI and visualize teh data 
+9. Finally run - $python Mainppage.py to display the UI and visualize the data 
