@@ -13,3 +13,13 @@ IOT-based healthcare management system using Raspberry Pie
 7. Open the folder on command line and run the command- $ activate project
 8. Then run this command - $ cd /*path
 9. Finally run - $python Mainppage.py to display the UI and visualize the data 
+
+
+## This Project is done under the guidance of Mrs. Bhuvaneshwari Patil.
+
+### Team Mates:-  
+
+1. Abhijeet Saraf  
+2. Danish Raza  
+3. Sutanyi Chakravorty  
+4. Sunil Pandey  
