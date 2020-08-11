@@ -15,9 +15,9 @@ IOT-based healthcare management system using Raspberry Pie
 9. Finally run - $python Mainppage.py to display the UI and visualize the data 
 
 
-## This Project is done under the guidance of Mrs. Bhuvaneshwari Patil.
+### This Project is done under the guidance of Mrs. Bhuvaneshwari Patil.
 
-### Team Mates:-  
+#### Team Mates:-  
 
 1. Abhijeet Saraf  
 2. Danish Raza  
